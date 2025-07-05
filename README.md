@@ -83,6 +83,14 @@ task-tracker/
 - `npm run eject` — Ejects from Create React App
 
 ---
+## 📸 Screenshots
+![Screenshot 2025-07-05 102547](https://github.com/user-attachments/assets/26e9ec33-62a7-4aaa-ad8b-a1a9b0172bd6)
+
+![Screenshot 2025-07-05 102657](https://github.com/user-attachments/assets/6ba36735-e31b-4572-add8-2893eb0aae2c)
+
+![Screenshot 2025-07-05 102723](https://github.com/user-attachments/assets/7dc94730-2fbe-4f3d-a0cd-8e80b5a08858)
+
+---
 
 ## 🎨 Design Highlights
 
