@@ -48,6 +48,7 @@ task-tracker/
 │   │   ├── TaskItem.js       # Individual task display & edit
 │   │   ├── TaskList.js       # Task list with delete confirmation
 │   │   └── TaskFilter.js     # Filter tabs with counts
+|   |   |__ TaskSearch.js     # Searching Functionality
 │   ├── utils/
 │   │   └── localStorage.js   # Data persistence utilities
 │   ├── styles/
@@ -89,6 +90,13 @@ task-tracker/
 ![Screenshot 2025-07-05 102657](https://github.com/user-attachments/assets/6ba36735-e31b-4572-add8-2893eb0aae2c)
 
 ![Screenshot 2025-07-05 102723](https://github.com/user-attachments/assets/7dc94730-2fbe-4f3d-a0cd-8e80b5a08858)
+
+![Screenshot 2025-07-05 110703](https://github.com/user-attachments/assets/e1617963-92f4-4ce5-8dec-9238aaf9b85d)
+
+---
+
+## 🔗 Live Demo
+https://personal-task-manager-app.netlify.app/
 
 ---
 
